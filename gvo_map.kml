@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>140422 gvo_map test2</name>
+		<name>gvo_map alpha</name>
 		<description><![CDATA[]]></description>
 		<Folder>
-			<name>圖層1</name>
+			<name>城鎮</name>
 			<Placemark>
 				<styleUrl>#icon-503-F8971B</styleUrl>
 				<name>聖彼得堡</name>
@@ -238,6 +238,41 @@
 				</Point>
 			</Placemark>
 		</Folder>
+		<Folder>
+			<name>非城鎮</name>
+			<Placemark>
+				<styleUrl>#icon-1379</styleUrl>
+				<name>摩洛哥西岸</name>
+				<description><![CDATA[歐洲西部]]></description>
+				<Point>
+					<coordinates>-8.76708984375,33.403931200234624,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1379</styleUrl>
+				<name>非洲西北岸</name>
+				<description><![CDATA[歐洲西部]]></description>
+				<Point>
+					<coordinates>-9.755859375,30.07860131571654,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1379</styleUrl>
+				<name>非洲北岸</name>
+				<description><![CDATA[歐洲西部]]></description>
+				<Point>
+					<coordinates>-2.6806640625,35.11092180970473,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1379</styleUrl>
+				<name>比斯開灣南岸</name>
+				<description><![CDATA[歐洲西部]]></description>
+				<Point>
+					<coordinates>-3.5870361328125,43.51071299084368,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
 		<Style id='icon-503-7C3592'>
 			<IconStyle>
 				<color>ff92357C</color>
@@ -262,6 +297,14 @@
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1379'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
