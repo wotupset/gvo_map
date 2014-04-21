@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>gvo_map alpha</name>
-		<description><![CDATA[]]></description>
+		<name>gvo_map</name>
+		<description><![CDATA[140422 
+alpha]]></description>
 		<Folder>
 			<name>城鎮</name>
 			<Placemark>
@@ -110,11 +111,11 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-7C3592</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>馬賽</name>
-				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮-M]]></description>
 				<Point>
-					<coordinates>5.36978,43.296482,0.0</coordinates>
+					<coordinates>5.369779999999992,43.296482,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -166,11 +167,11 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-7C3592</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>突尼斯</name>
-				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮-M]]></description>
 				<Point>
-					<coordinates>10.181532,36.806495,0.0</coordinates>
+					<coordinates>10.181532000000061,36.806495,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -206,11 +207,11 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-FAD199</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>里斯本</name>
-				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮-M]]></description>
 				<Point>
-					<coordinates>-9.139337,38.722252,0.0</coordinates>
+					<coordinates>-9.139337000000069,38.722252,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -222,11 +223,11 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-FAD199</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>塞維爾</name>
-				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮-M]]></description>
 				<Point>
-					<coordinates>-6.507798,37.030243,0.0</coordinates>
+					<coordinates>-6.50779799999998,37.030243,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -241,7 +242,7 @@
 		<Folder>
 			<name>非城鎮</name>
 			<Placemark>
-				<styleUrl>#icon-1379</styleUrl>
+				<styleUrl>#icon-1469</styleUrl>
 				<name>摩洛哥西岸</name>
 				<description><![CDATA[歐洲西部]]></description>
 				<Point>
@@ -249,7 +250,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1379</styleUrl>
+				<styleUrl>#icon-1469</styleUrl>
 				<name>非洲西北岸</name>
 				<description><![CDATA[歐洲西部]]></description>
 				<Point>
@@ -257,7 +258,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1379</styleUrl>
+				<styleUrl>#icon-1469</styleUrl>
 				<name>非洲北岸</name>
 				<description><![CDATA[歐洲西部]]></description>
 				<Point>
@@ -265,7 +266,7 @@
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1379</styleUrl>
+				<styleUrl>#icon-1469</styleUrl>
 				<name>比斯開灣南岸</name>
 				<description><![CDATA[歐洲西部]]></description>
 				<Point>
@@ -291,20 +292,28 @@
 				</Icon>
 			</IconStyle>
 		</Style>
+		<Style id='icon-1445'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1445-trans-metro.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1469'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1469-trans-walking.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<Style id='icon-503-FAD199'>
 			<IconStyle>
 				<color>ff99D1FA</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-1379'>
-			<IconStyle>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1379-rec-park.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
