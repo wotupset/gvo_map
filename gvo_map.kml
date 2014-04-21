@@ -303,9 +303,9 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-F8971B</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>阿姆斯特丹</name>
-				<description><![CDATA[歐洲北部-北海-城鎮]]></description>
+				<description><![CDATA[歐洲北部-北海-城鎮-M]]></description>
 				<Point>
 					<coordinates>4.895167899999933,52.3702157,0.0</coordinates>
 				</Point>
@@ -335,9 +335,9 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-F8971B</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>倫敦</name>
-				<description><![CDATA[歐洲北部-北海-城鎮]]></description>
+				<description><![CDATA[歐洲北部-北海-城鎮-M]]></description>
 				<Point>
 					<coordinates>0.8742686593750477,51.774412128971974,0.0</coordinates>
 				</Point>
@@ -404,7 +404,7 @@ alpha]]></description>
 			<Placemark>
 				<styleUrl>#icon-1469</styleUrl>
 				<name>摩洛哥西岸</name>
-				<description><![CDATA[歐洲西部]]></description>
+				<description><![CDATA[歐洲西部-非城鎮]]></description>
 				<Point>
 					<coordinates>-8.76708984375,33.403931200234624,0.0</coordinates>
 				</Point>
@@ -412,7 +412,7 @@ alpha]]></description>
 			<Placemark>
 				<styleUrl>#icon-1469</styleUrl>
 				<name>非洲西北岸</name>
-				<description><![CDATA[歐洲西部]]></description>
+				<description><![CDATA[歐洲西部-非城鎮]]></description>
 				<Point>
 					<coordinates>-9.755859375,30.07860131571654,0.0</coordinates>
 				</Point>
@@ -420,7 +420,7 @@ alpha]]></description>
 			<Placemark>
 				<styleUrl>#icon-1469</styleUrl>
 				<name>非洲北岸</name>
-				<description><![CDATA[歐洲西部]]></description>
+				<description><![CDATA[歐洲西部-非城鎮]]></description>
 				<Point>
 					<coordinates>-2.6806640625,35.11092180970473,0.0</coordinates>
 				</Point>
@@ -428,9 +428,113 @@ alpha]]></description>
 			<Placemark>
 				<styleUrl>#icon-1469</styleUrl>
 				<name>比斯開灣南岸</name>
-				<description><![CDATA[歐洲西部]]></description>
+				<description><![CDATA[歐洲西部-非城鎮]]></description>
 				<Point>
 					<coordinates>-3.5870361328125,43.51071299084368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>南特南部</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>-1.69189453125,46.58906908309182,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>法蘭西西北岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>-1.669921875,48.516604348867475,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>加來南部</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>1.988525390625,50.93420001306366,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>大不列顛島南岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>-0.4559326171875,50.85450904781293,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>大不列顛島東岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>-1.087646484375,54.619797717849536,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>都柏林北部</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>-6.61376953125,54.17529672404642,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>盧貝克東南岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>11.865234375,54.02067955159995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>波羅的海西南岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>16.875,54.57206165565852,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>波羅的海東南岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>21.33544921875,55.751849391735284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>波羅的海北岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>22.6318359375,60.41385235046491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>波斯尼亞灣西岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>20.1708984375,64.05297838071347,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>斯堪地那維亞西岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>10.3271484375,64.05297838071321,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>奧斯陸北岸</name>
+				<description><![CDATA[歐洲北部-非城鎮]]></description>
+				<Point>
+					<coordinates>10.4150390625,59.866883195210214,0.0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
