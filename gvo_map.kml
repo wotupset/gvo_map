@@ -4,7 +4,7 @@
 		<name>gvo 世界地圖 測試</name>
 		<description><![CDATA[]]></description>
 		<Folder>
-			<name>澳洲北部-城鎮</name>
+			<name>歐洲北部-城鎮</name>
 			<Placemark>
 				<styleUrl>#icon-1351</styleUrl>
 				<name>聖彼得堡</name>
@@ -71,7 +71,7 @@ en: ]]></description>
 			</Placemark>
 		</Folder>
 		<Folder>
-			<name>澳洲西部-城鎮</name>
+			<name>歐洲西部-北大西洋-城鎮</name>
 			<Placemark>
 				<styleUrl>#icon-1417</styleUrl>
 				<name>希洪</name>
@@ -349,6 +349,308 @@ zh2: 波爾圖]]></description>
 				</Point>
 			</Placemark>
 		</Folder>
+		<Folder>
+			<name>歐洲西部-西地中海-城鎮</name>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>瓦倫西亞</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[バレンシア
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-0.3762881000000107,39.4699075,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>巴塞隆納</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[バルセロナ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>2.1734034999999494,41.3850639,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>帕爾馬</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[パルマ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>2.646633999999949,39.57119,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>蒙彼利埃</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Montpellier</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[モンペリエ
+
+en: Montpellier
+zh2: ]]></description>
+				<Point>
+					<coordinates>3.8767159999999876,43.610769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>馬賽</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Marseille</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[マルセイユ
+
+en: Marseille
+zh2: ]]></description>
+				<Point>
+					<coordinates>5.369779999999992,43.296482,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>熱那亞</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Genova</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ジェノヴァ
+
+en: Genova
+zh2: ]]></description>
+				<Point>
+					<coordinates>9.145615300000031,44.44662539999999,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>比薩</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ピサ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>10.401688799999988,43.7228386,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>卡爾維</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[カルヴィ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>8.757221999999956,42.567651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>薩沙里</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Sassari</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value>薩斯沙利</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[サッサリ
+
+en: Sassari
+zh2: 薩斯沙利]]></description>
+				<Point>
+					<coordinates>8.555682599999955,40.7259269,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>卡利亞里</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Cagliari</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value>卡拉里</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[カリアリ
+
+en: Cagliari
+zh2: 卡拉里]]></description>
+				<Point>
+					<coordinates>9.121661300000028,39.2238411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>阿爾及爾</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Algiers</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[アルジェ
+
+en: Algiers
+zh2: ]]></description>
+				<Point>
+					<coordinates>3.0420480000000225,36.752887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>突尼斯</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value>突尼西亞</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[チュニス
+
+en: 
+zh2: 突尼西亞]]></description>
+				<Point>
+					<coordinates>10.181531599999971,36.8064948,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1121</styleUrl>
+				<name>的黎波里</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[トリポリ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>13.190000000000055,32.8802,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
 		<Style id='icon-1351'>
 			<IconStyle>
 				<scale>1.1</scale>
@@ -362,6 +664,14 @@ zh2: 波爾圖]]></description>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1121'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1121-crisis-animal.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
