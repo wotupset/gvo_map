@@ -1,0 +1,369 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>gvo 世界地圖 測試</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>澳洲北部-城鎮</name>
+			<Placemark>
+				<styleUrl>#icon-1351</styleUrl>
+				<name>聖彼得堡</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[サンクトペテルブルク
+
+en: ]]></description>
+				<Point>
+					<coordinates>30.335098600000038,59.9342802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1351</styleUrl>
+				<name>斯德哥爾摩</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ストックホルム
+
+en: ]]></description>
+				<Point>
+					<coordinates>18.064910000000054,59.32893000000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1351</styleUrl>
+				<name>里加</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[リガ
+
+en: ]]></description>
+				<Point>
+					<coordinates>24.10518639999998,56.9496487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1351</styleUrl>
+				<name>科科拉</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[コッコラ
+
+en: ]]></description>
+				<Point>
+					<coordinates>23.13048129999993,63.8384908,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>澳洲西部-城鎮</name>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>希洪</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ヒホン
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-5.661119500000041,43.5322015,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>里斯本</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[リスボン
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-9.139336599999979,38.7222524,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>法魯</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ファロ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-7.930834000000004,37.0179538,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>塞維爾</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[セビリア
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-6.507797634375038,37.03024250842892,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>馬拉加</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[マラガ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-4.421265500000004,36.721261,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>休達</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[セウタ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-5.324635599999965,35.8883838,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>卡薩布蘭卡</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[カサブランカ
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-7.607365892773487,33.59855809405108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>阿爾金</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[アルギン
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-16.35109095312498,20.60884260749105,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>馬德拉</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Madeira</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[マディラ
+
+en: Madeira
+zh2: ]]></description>
+				<Point>
+					<coordinates>-16.959472300000016,32.76070740000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>拉斯帕爾馬斯</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[ラスパルマス
+
+en: 
+zh2: ]]></description>
+				<Point>
+					<coordinates>-15.44088320000003,28.1131545,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>亞速爾</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Azores</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[アゾレス
+
+en: Azores
+zh2: ]]></description>
+				<Point>
+					<coordinates>-25.675594400000023,37.7412488,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1417</styleUrl>
+				<name>奧波多</name>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>en</displayName>
+						<value>Porto</value>
+					</Data>
+				</ExtendedData>
+				<ExtendedData>
+					<Data name='string'>
+						<displayName>zh2</displayName>
+						<value>波爾圖</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[オポルト
+
+en: Porto
+zh2: 波爾圖]]></description>
+				<Point>
+					<coordinates>-8.623925399999962,41.1566892,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1351'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1351-rec-baseball.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1417'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
