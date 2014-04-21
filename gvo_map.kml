@@ -1,677 +1,267 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <kml xmlns='http://www.opengis.net/kml/2.2'>
 	<Document>
-		<name>gvo 世界地圖 測試</name>
+		<name>140422 gvo_map test2</name>
 		<description><![CDATA[]]></description>
 		<Folder>
-			<name>歐洲北部-城鎮</name>
+			<name>圖層1</name>
 			<Placemark>
-				<styleUrl>#icon-1351</styleUrl>
+				<styleUrl>#icon-503-F8971B</styleUrl>
 				<name>聖彼得堡</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[サンクトペテルブルク
-
-en: ]]></description>
+				<description><![CDATA[歐洲北部-北海-城鎮]]></description>
 				<Point>
-					<coordinates>30.335098600000038,59.9342802,0.0</coordinates>
+					<coordinates>30.335099,59.93428,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1351</styleUrl>
-				<name>斯德哥爾摩</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[ストックホルム
-
-en: ]]></description>
-				<Point>
-					<coordinates>18.064910000000054,59.32893000000001,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1351</styleUrl>
-				<name>里加</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[リガ
-
-en: ]]></description>
-				<Point>
-					<coordinates>24.10518639999998,56.9496487,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1351</styleUrl>
-				<name>科科拉</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[コッコラ
-
-en: ]]></description>
-				<Point>
-					<coordinates>23.13048129999993,63.8384908,0.0</coordinates>
-				</Point>
-			</Placemark>
-		</Folder>
-		<Folder>
-			<name>歐洲西部-北大西洋-城鎮</name>
-			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
-				<name>希洪</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Gijón</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[ヒホン
-
-en: Gijón
-zh2: ]]></description>
-				<Point>
-					<coordinates>-5.661119500000041,43.5322015,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
-				<name>里斯本</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Lisboa</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[リスボン
-
-en: Lisboa
-zh2: ]]></description>
-				<Point>
-					<coordinates>-9.139336599999979,38.7222524,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
-				<name>法魯</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Faro</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[ファロ
-
-en: Faro
-zh2: ]]></description>
-				<Point>
-					<coordinates>-7.930834000000004,37.0179538,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
-				<name>塞維爾</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Sevilla</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value>塞維利亞</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[セビリア
-
-en: Sevilla
-zh2: 塞維利亞]]></description>
-				<Point>
-					<coordinates>-6.507797634375038,37.03024250842892,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
-				<name>馬拉加</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Málaga</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[マラガ
-
-en: Málaga
-zh2: ]]></description>
-				<Point>
-					<coordinates>-4.421265500000004,36.721261,0.0</coordinates>
-				</Point>
-			</Placemark>
-			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>休達</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Ceuta</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[セウタ
-
-en: Ceuta
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-5.324635599999965,35.8883838,0.0</coordinates>
+					<coordinates>-5.324636,35.888384,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>卡薩布蘭卡</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Casa Blanca</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value>達爾貝達</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[カサブランカ
-
-en: Casa Blanca
-zh2: 達爾貝達]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-7.607365892773487,33.59855809405108,0.0</coordinates>
+					<coordinates>-7.607366,33.598558,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>阿爾金</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Arguin</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[アルギン
-
-en: Arguin
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-16.35109095312498,20.60884260749105,0.0</coordinates>
+					<coordinates>-16.351091,20.608843,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>馬德拉</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Madeira</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[マディラ
-
-en: Madeira
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-16.959472300000016,32.76070740000001,0.0</coordinates>
+					<coordinates>-16.959472,32.760707,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>拉斯帕爾馬斯</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Las Palmas</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[ラスパルマス
-
-en: Las Palmas
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-15.44088320000003,28.1131545,0.0</coordinates>
+					<coordinates>-15.440883,28.113154,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>亞速爾</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Azores</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[アゾレス
-
-en: Azores
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-25.675594400000023,37.7412488,0.0</coordinates>
+					<coordinates>-25.675594,37.741249,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1417</styleUrl>
+				<styleUrl>#icon-503-FAD199</styleUrl>
 				<name>奧波多</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Porto</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value>波爾圖</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[オポルト
-
-en: Porto
-zh2: 波爾圖]]></description>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
 				<Point>
-					<coordinates>-8.623925399999962,41.1566892,0.0</coordinates>
+					<coordinates>-8.623925,41.156689,0.0</coordinates>
 				</Point>
 			</Placemark>
-		</Folder>
-		<Folder>
-			<name>歐洲西部-西地中海-城鎮</name>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>瓦倫西亞</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Valencia</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[バレンシア
-
-en: Valencia
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>-0.3762881000000107,39.4699075,0.0</coordinates>
+					<coordinates>-0.376288,39.469908,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>巴塞隆納</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Barcelona</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[バルセロナ
-
-en: Barcelona
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>2.1734034999999494,41.3850639,0.0</coordinates>
+					<coordinates>2.173403,41.385064,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>帕爾馬</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Palma</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[パルマ
-
-en: Palma
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>2.646633999999949,39.57119,0.0</coordinates>
+					<coordinates>2.646634,39.57119,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<name>斯德哥爾摩</name>
+				<description><![CDATA[歐洲北部-北海-城鎮]]></description>
+				<Point>
+					<coordinates>18.06491,59.32893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>蒙彼利埃</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Montpellier</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[モンペリエ
-
-en: Montpellier
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>3.8767159999999876,43.610769,0.0</coordinates>
+					<coordinates>3.876716,43.610769,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>馬賽</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Marseille</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[マルセイユ
-
-en: Marseille
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>5.369779999999992,43.296482,0.0</coordinates>
+					<coordinates>5.36978,43.296482,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>熱那亞</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Genova</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[ジェノヴァ
-
-en: Genova
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>9.145615300000031,44.44662539999999,0.0</coordinates>
+					<coordinates>9.145615,44.446625,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>比薩</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Pisa</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[ピサ
-
-en: Pisa
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>10.401688799999988,43.7228386,0.0</coordinates>
+					<coordinates>10.401689,43.722839,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>卡爾維</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Calvi</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[カルヴィ
-
-en: Calvi
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>8.757221999999956,42.567651,0.0</coordinates>
+					<coordinates>8.757222,42.567651,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>薩沙里</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Sassari</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value>薩斯沙利</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[サッサリ
-
-en: Sassari
-zh2: 薩斯沙利]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>8.555682599999955,40.7259269,0.0</coordinates>
+					<coordinates>8.555683,40.725927,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>卡利亞里</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Cagliari</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value>卡拉里</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[カリアリ
-
-en: Cagliari
-zh2: 卡拉里]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>9.121661300000028,39.2238411,0.0</coordinates>
+					<coordinates>9.121661,39.223841,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>阿爾及爾</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Algiers</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[アルジェ
-
-en: Algiers
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>3.0420480000000225,36.752887,0.0</coordinates>
+					<coordinates>3.042048,36.752887,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>突尼斯</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Tunisia</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value>突尼西亞</value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[チュニス
-
-en: Tunisia
-zh2: 突尼西亞]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>10.181531599999971,36.8064948,0.0</coordinates>
+					<coordinates>10.181532,36.806495,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-1121</styleUrl>
+				<styleUrl>#icon-503-7C3592</styleUrl>
 				<name>的黎波里</name>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>en</displayName>
-						<value>Tripoli</value>
-					</Data>
-				</ExtendedData>
-				<ExtendedData>
-					<Data name='string'>
-						<displayName>zh2</displayName>
-						<value></value>
-					</Data>
-				</ExtendedData>
-				<description><![CDATA[トリポリ
-
-en: Tripoli
-zh2: ]]></description>
+				<description><![CDATA[歐洲西部-西地中海-城鎮]]></description>
 				<Point>
-					<coordinates>13.190000000000055,32.8802,0.0</coordinates>
+					<coordinates>13.19,32.8802,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<name>里加</name>
+				<description><![CDATA[歐洲北部-北海-城鎮]]></description>
+				<Point>
+					<coordinates>24.105186,56.949649,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F8971B</styleUrl>
+				<name>科科拉</name>
+				<description><![CDATA[歐洲北部-北海-城鎮]]></description>
+				<Point>
+					<coordinates>23.130481,63.838491,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>希洪</name>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<Point>
+					<coordinates>-5.66112,43.532202,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>里斯本</name>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<Point>
+					<coordinates>-9.139337,38.722252,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>法魯</name>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<Point>
+					<coordinates>-7.930834,37.017954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>塞維爾</name>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<Point>
+					<coordinates>-6.507798,37.030243,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-FAD199</styleUrl>
+				<name>馬拉加</name>
+				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
+				<Point>
+					<coordinates>-4.421266,36.721261,0.0</coordinates>
 				</Point>
 			</Placemark>
 		</Folder>
-		<Style id='icon-1351'>
+		<Style id='icon-503-7C3592'>
 			<IconStyle>
+				<color>ff92357C</color>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1351-rec-baseball.png</href>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-1417'>
+		<Style id='icon-503-F8971B'>
 			<IconStyle>
+				<color>ff1B97F8</color>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1417-trans-airport.png</href>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-1121'>
+		<Style id='icon-503-FAD199'>
 			<IconStyle>
+				<color>ff99D1FA</color>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/1121-crisis-animal.png</href>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
