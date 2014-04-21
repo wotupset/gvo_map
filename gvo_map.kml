@@ -78,7 +78,7 @@ en: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Gijón</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -89,7 +89,7 @@ en: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[ヒホン
 
-en: 
+en: Gijón
 zh2: ]]></description>
 				<Point>
 					<coordinates>-5.661119500000041,43.5322015,0.0</coordinates>
@@ -101,7 +101,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Lisboa</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -112,7 +112,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[リスボン
 
-en: 
+en: Lisboa
 zh2: ]]></description>
 				<Point>
 					<coordinates>-9.139336599999979,38.7222524,0.0</coordinates>
@@ -124,7 +124,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Faro</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -135,7 +135,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[ファロ
 
-en: 
+en: Faro
 zh2: ]]></description>
 				<Point>
 					<coordinates>-7.930834000000004,37.0179538,0.0</coordinates>
@@ -147,19 +147,19 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Sevilla</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>zh2</displayName>
-						<value></value>
+						<value>塞維利亞</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[セビリア
 
-en: 
-zh2: ]]></description>
+en: Sevilla
+zh2: 塞維利亞]]></description>
 				<Point>
 					<coordinates>-6.507797634375038,37.03024250842892,0.0</coordinates>
 				</Point>
@@ -170,7 +170,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Málaga</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -181,7 +181,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[マラガ
 
-en: 
+en: Málaga
 zh2: ]]></description>
 				<Point>
 					<coordinates>-4.421265500000004,36.721261,0.0</coordinates>
@@ -193,7 +193,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Ceuta</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -204,7 +204,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[セウタ
 
-en: 
+en: Ceuta
 zh2: ]]></description>
 				<Point>
 					<coordinates>-5.324635599999965,35.8883838,0.0</coordinates>
@@ -216,19 +216,19 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Casa Blanca</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>zh2</displayName>
-						<value></value>
+						<value>達爾貝達</value>
 					</Data>
 				</ExtendedData>
 				<description><![CDATA[カサブランカ
 
-en: 
-zh2: ]]></description>
+en: Casa Blanca
+zh2: 達爾貝達]]></description>
 				<Point>
 					<coordinates>-7.607365892773487,33.59855809405108,0.0</coordinates>
 				</Point>
@@ -239,7 +239,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Arguin</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -250,7 +250,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[アルギン
 
-en: 
+en: Arguin
 zh2: ]]></description>
 				<Point>
 					<coordinates>-16.35109095312498,20.60884260749105,0.0</coordinates>
@@ -285,7 +285,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Las Palmas</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -296,7 +296,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[ラスパルマス
 
-en: 
+en: Las Palmas
 zh2: ]]></description>
 				<Point>
 					<coordinates>-15.44088320000003,28.1131545,0.0</coordinates>
@@ -357,7 +357,7 @@ zh2: 波爾圖]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Valencia</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -368,7 +368,7 @@ zh2: 波爾圖]]></description>
 				</ExtendedData>
 				<description><![CDATA[バレンシア
 
-en: 
+en: Valencia
 zh2: ]]></description>
 				<Point>
 					<coordinates>-0.3762881000000107,39.4699075,0.0</coordinates>
@@ -380,7 +380,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Barcelona</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -391,7 +391,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[バルセロナ
 
-en: 
+en: Barcelona
 zh2: ]]></description>
 				<Point>
 					<coordinates>2.1734034999999494,41.3850639,0.0</coordinates>
@@ -403,7 +403,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Palma</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -414,7 +414,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[パルマ
 
-en: 
+en: Palma
 zh2: ]]></description>
 				<Point>
 					<coordinates>2.646633999999949,39.57119,0.0</coordinates>
@@ -495,7 +495,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Pisa</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -506,7 +506,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[ピサ
 
-en: 
+en: Pisa
 zh2: ]]></description>
 				<Point>
 					<coordinates>10.401688799999988,43.7228386,0.0</coordinates>
@@ -518,7 +518,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Calvi</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -529,7 +529,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[カルヴィ
 
-en: 
+en: Calvi
 zh2: ]]></description>
 				<Point>
 					<coordinates>8.757221999999956,42.567651,0.0</coordinates>
@@ -610,7 +610,7 @@ zh2: ]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Tunisia</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -621,7 +621,7 @@ zh2: ]]></description>
 				</ExtendedData>
 				<description><![CDATA[チュニス
 
-en: 
+en: Tunisia
 zh2: 突尼西亞]]></description>
 				<Point>
 					<coordinates>10.181531599999971,36.8064948,0.0</coordinates>
@@ -633,7 +633,7 @@ zh2: 突尼西亞]]></description>
 				<ExtendedData>
 					<Data name='string'>
 						<displayName>en</displayName>
-						<value></value>
+						<value>Tripoli</value>
 					</Data>
 				</ExtendedData>
 				<ExtendedData>
@@ -644,7 +644,7 @@ zh2: 突尼西亞]]></description>
 				</ExtendedData>
 				<description><![CDATA[トリポリ
 
-en: 
+en: Tripoli
 zh2: ]]></description>
 				<Point>
 					<coordinates>13.190000000000055,32.8802,0.0</coordinates>
