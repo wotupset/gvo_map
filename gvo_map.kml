@@ -415,9 +415,9 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>威尼斯</name>
-				<description><![CDATA[歐洲東部-城鎮]]></description>
+				<description><![CDATA[歐洲東部-城鎮-M]]></description>
 				<Point>
 					<coordinates>12.31551509999997,45.4408474,0.0</coordinates>
 				</Point>
@@ -511,9 +511,9 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-F4EB37</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>伊斯坦堡</name>
-				<description><![CDATA[歐洲東部-城鎮]]></description>
+				<description><![CDATA[歐洲東部-城鎮-M]]></description>
 				<Point>
 					<coordinates>28.976959999999963,41.00527,0.0</coordinates>
 				</Point>
@@ -548,6 +548,127 @@ alpha]]></description>
 				<description><![CDATA[歐洲東部-城鎮]]></description>
 				<Point>
 					<coordinates>33.52536699999996,44.61665,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>阿爾金</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>-16.356584164062497,20.61398454348398,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>維德角</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>-23.605172100000004,15.120142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>阿必讓</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>-4.033333299999981,5.3166667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>貝南</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>3.1201171875,6.686431252651968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>聖喬治</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>-1.483154296875,5.036226914872196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>聖多美</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>6.733342999999991,0.3301924,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>杜阿拉</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>9.700000000000045,4.05,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<name>盧安達</name>
+				<description><![CDATA[非洲西部-城鎮]]></description>
+				<Point>
+					<coordinates>13.23444440000003,-8.8383333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<name>本格拉</name>
+				<description><![CDATA[非洲南部-城鎮]]></description>
+				<Point>
+					<coordinates>13.407777799999963,-12.58,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<name>卡里比布</name>
+				<description><![CDATA[非洲南部-城鎮]]></description>
+				<Point>
+					<coordinates>14.316358462500034,-22.466983342104385,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1445</styleUrl>
+				<name>開普敦</name>
+				<description><![CDATA[非洲南部-城鎮-M]]></description>
+				<Point>
+					<coordinates>18.424055299999964,-33.9248685,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<name>納塔爾
+</name>
+				<description><![CDATA[非洲南部-城鎮]]></description>
+				<Point>
+					<coordinates>30.76171875,-29.228890030194215,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<name>索法拉</name>
+				<description><![CDATA[非洲南部-城鎮]]></description>
+				<Point>
+					<coordinates>34.88438925624996,-19.825217668766104,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<name>莫三比克</name>
+				<description><![CDATA[非洲南部-城鎮]]></description>
+				<Point>
+					<coordinates>40.42946434374994,-15.706272538977146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-C6A4CF</styleUrl>
+				<name>塔馬塔夫</name>
+				<description><![CDATA[非洲南部-城鎮]]></description>
+				<Point>
+					<coordinates>49.295654296875,-18.051867073547616,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -769,10 +890,77 @@ alpha]]></description>
 					<coordinates>29.4873046875,45.62940492064501,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲西南岸
+</name>
+				<description><![CDATA[非洲南部-非城鎮]]></description>
+				<Point>
+					<coordinates>11.865234375,-16.04581345375217,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲南南西岸</name>
+				<description><![CDATA[非洲南部-非城鎮]]></description>
+				<Point>
+					<coordinates>15.908203125,-27.29368922485238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲南岸</name>
+				<description><![CDATA[非洲南部-非城鎮]]></description>
+				<Point>
+					<coordinates>23.37890625,-33.72433966174759,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲南南東岸</name>
+				<description><![CDATA[非洲南部-非城鎮]]></description>
+				<Point>
+					<coordinates>32.255859375,-24.846565348219745,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲東南岸</name>
+				<description><![CDATA[非洲南部-非城鎮]]></description>
+				<Point>
+					<coordinates>37.353515625,-17.224758206624628,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>馬達加斯加西岸</name>
+				<description><![CDATA[非洲南部-非城鎮]]></description>
+				<Point>
+					<coordinates>44.6484375,-18.396230138028812,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Style id='icon-503-F4EB37'>
 			<IconStyle>
 				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-C6A4CF'>
+			<IconStyle>
+				<color>ffCFA4C6</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-9FC3FF'>
+			<IconStyle>
+				<color>ffFFC39F</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
