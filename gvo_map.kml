@@ -1256,6 +1256,142 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>卡卡杜</name>
+				<description><![CDATA[大洋洲-城鎮]]></description>
+				<Point>
+					<coordinates>132.47005420000005,-12.6828145,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>平哈拉</name>
+				<description><![CDATA[大洋洲-城鎮]]></description>
+				<Point>
+					<coordinates>115.87491360000001,-32.6288643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>荷巴特</name>
+				<description><![CDATA[大洋洲-城鎮]]></description>
+				<Point>
+					<coordinates>147.32381480000004,-42.8819032,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>芬瑟島</name>
+				<description><![CDATA[大洋洲-城鎮]]></description>
+				<Point>
+					<coordinates>153.15608529999997,-25.2663148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-F9F7A6</styleUrl>
+				<name>旺格努伊</name>
+				<description><![CDATA[大洋洲-城鎮]]></description>
+				<Point>
+					<coordinates>175.04789010000002,-39.9300887,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>長崎</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>130.368140965625,33.15968728012352,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>堺市</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>135.48299799999995,34.573262,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>淡水</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>121.43847000000005,25.175579,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>安平</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>120.16470359999994,22.9934043,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>澳門</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>113.54387300000008,22.198745,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>泉州</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>118.67546400000003,24.874699,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>杭州</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>120.15507000000002,30.274085,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>雲台山</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>119.17783589824239,34.75801754740358,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>釜山</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>129.07564160000004,35.1795543,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>漢陽</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>127.04538000000002,37.555954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>浦項</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>129.34348079999995,36.0190178,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-7C3592</styleUrl>
+				<name>江戶</name>
+				<description><![CDATA[東亞-城鎮]]></description>
+				<Point>
+					<coordinates>139.75279899999998,35.68517499999992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
 				<styleUrl>#icon-503-009D57</styleUrl>
 				<name>馬拉加</name>
 				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
@@ -1766,6 +1902,14 @@ alpha]]></description>
 					<coordinates>121.4208984375,-2.284550660236957,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>澳洲西北岸</name>
+				<description><![CDATA[大洋洲-非城鎮]]></description>
+				<Point>
+					<coordinates>121.640625,-19.559790136497398,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Style id='icon-503-4186F0'>
 			<IconStyle>
@@ -1803,6 +1947,15 @@ alpha]]></description>
 				</Icon>
 			</IconStyle>
 		</Style>
+		<Style id='icon-503-7C3592'>
+			<IconStyle>
+				<color>ff92357C</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<Style id='icon-503-F4B400'>
 			<IconStyle>
 				<color>ff00B4F4</color>
@@ -1833,6 +1986,15 @@ alpha]]></description>
 		<Style id='icon-503-B29189'>
 			<IconStyle>
 				<color>ff8991B2</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-F9F7A6'>
+			<IconStyle>
+				<color>ffA6F7F9</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
