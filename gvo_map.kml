@@ -980,7 +980,7 @@ alpha]]></description>
 				<name>通貝斯</name>
 				<description><![CDATA[加勒比&中美-中南美西岸-城鎮]]></description>
 				<Point>
-					<coordinates>-80.44999999999999,-3.5666667,0.0</coordinates>
+					<coordinates>-80.01054687499999,-2.337854710920796,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -1013,6 +1013,22 @@ alpha]]></description>
 				<description><![CDATA[加勒比&中美-中南美西岸-城鎮]]></description>
 				<Point>
 					<coordinates>-79.91927020000003,-6.4776528,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<name>夏威夷</name>
+				<description><![CDATA[南太平洋-城鎮]]></description>
+				<Point>
+					<coordinates>-155.58278180000002,19.8967662,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
+				<name>希瓦瓦</name>
+				<description><![CDATA[南太平洋-城鎮]]></description>
+				<Point>
+					<coordinates>-139.0211225,-9.7546726,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -1422,10 +1438,59 @@ alpha]]></description>
 					<coordinates>87.154541015625,21.62679263479943,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>墨西哥灣西南岸</name>
+				<description><![CDATA[加勒比&中美-非城鎮]]></description>
+				<Point>
+					<coordinates>-98.1298828125,22.350075806124867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>南美北岸高地</name>
+				<description><![CDATA[加勒比&中美-非城鎮]]></description>
+				<Point>
+					<coordinates>-64.16015625,10.358151400943683,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>南美東北海岸</name>
+				<description><![CDATA[加勒比&中美-非城鎮]]></description>
+				<Point>
+					<coordinates>-44.384765625,-2.5040852618529192,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>亞馬遜河上游</name>
+				<description><![CDATA[加勒比&中美-非城鎮]]></description>
+				<Point>
+					<coordinates>-62.314453125,-4.302591077119676,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>南美西北岸</name>
+				<description><![CDATA[加勒比&中美-非城鎮]]></description>
+				<Point>
+					<coordinates>-78.75,1.845383988573187,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Style id='icon-503-3F5BA9'>
 			<IconStyle>
 				<color>ffA95B3F</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-EE9C96'>
+			<IconStyle>
+				<color>ff969CEE</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
