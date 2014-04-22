@@ -111,7 +111,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-795046</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>馬賽</name>
 				<description><![CDATA[歐洲西部-西地中海-城鎮-M]]></description>
 				<Point>
@@ -167,7 +167,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-795046</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>突尼斯</name>
 				<description><![CDATA[歐洲西部-西地中海-城鎮-M]]></description>
 				<Point>
@@ -207,7 +207,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>里斯本</name>
 				<description><![CDATA[歐洲西部-北大西洋-城鎮-M]]></description>
 				<Point>
@@ -223,7 +223,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-A61B4A</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>塞維爾</name>
 				<description><![CDATA[歐洲西部-北大西洋-城鎮-M]]></description>
 				<Point>
@@ -303,7 +303,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-D698AD</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>阿姆斯特丹</name>
 				<description><![CDATA[歐洲北部-北海-城鎮-M]]></description>
 				<Point>
@@ -335,7 +335,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-D698AD</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>倫敦</name>
 				<description><![CDATA[歐洲北部-北海-城鎮-M]]></description>
 				<Point>
@@ -415,7 +415,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>威尼斯</name>
 				<description><![CDATA[歐洲東部-城鎮-M]]></description>
 				<Point>
@@ -511,7 +511,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-0BA9CC</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>伊斯坦堡</name>
 				<description><![CDATA[歐洲東部-城鎮-M]]></description>
 				<Point>
@@ -631,7 +631,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-3F5BA9</styleUrl>
+				<styleUrl>#icon-1445</styleUrl>
 				<name>開普敦</name>
 				<description><![CDATA[非洲南部-城鎮-M]]></description>
 				<Point>
@@ -1911,6 +1911,23 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 		</Folder>
+		<Folder>
+			<name>海域</name>
+			<Placemark>
+				<styleUrl>#icon-1391</styleUrl>
+				<name>地中海</name>
+				<Point>
+					<coordinates>18.048010500000032,34.5531284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1391</styleUrl>
+				<name>加那利外海</name>
+				<Point>
+					<coordinates>-16.34765625,28.07198030177986,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
 		<Style id='icon-503-4186F0'>
 			<IconStyle>
 				<color>ffF08641</color>
@@ -1920,9 +1937,9 @@ alpha]]></description>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-503-3F5BA9'>
+		<Style id='icon-503-DB4436'>
 			<IconStyle>
-				<color>ffA95B3F</color>
+				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -1932,15 +1949,6 @@ alpha]]></description>
 		<Style id='icon-503-EE9C96'>
 			<IconStyle>
 				<color>ff969CEE</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-503-DB4436'>
-			<IconStyle>
-				<color>ff3644DB</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
@@ -1965,12 +1973,11 @@ alpha]]></description>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-503-0BA9CC'>
+		<Style id='icon-1391'>
 			<IconStyle>
-				<color>ffCCA90B</color>
 				<scale>1.1</scale>
 				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+					<href>http://www.gstatic.com/mapspro/images/stock/1391-rec-spa.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -2037,21 +2044,20 @@ alpha]]></description>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-503-795046'>
-			<IconStyle>
-				<color>ff465079</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
 		<Style id='icon-503-CDDC39'>
 			<IconStyle>
 				<color>ff39DCCD</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-1445'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1445-trans-metro.png</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -2075,24 +2081,6 @@ alpha]]></description>
 		<Style id='icon-503-E6EEA3'>
 			<IconStyle>
 				<color>ffA3EEE6</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-503-D698AD'>
-			<IconStyle>
-				<color>ffAD98D6</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
-		<Style id='icon-503-A61B4A'>
-			<IconStyle>
-				<color>ff4A1BA6</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
