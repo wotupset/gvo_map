@@ -551,7 +551,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>阿爾金</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -559,7 +559,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>維德角</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -567,7 +567,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>阿必讓</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -575,7 +575,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>貝南</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -583,7 +583,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>聖喬治</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -591,7 +591,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>聖多美</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -599,7 +599,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>杜阿拉</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -607,7 +607,7 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
-				<styleUrl>#icon-503-9FC3FF</styleUrl>
+				<styleUrl>#icon-503-EE9C96</styleUrl>
 				<name>盧安達</name>
 				<description><![CDATA[非洲西部-城鎮]]></description>
 				<Point>
@@ -669,6 +669,166 @@ alpha]]></description>
 				<description><![CDATA[非洲南部-城鎮]]></description>
 				<Point>
 					<coordinates>49.295654296875,-18.051867073547616,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>基爾瓦</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>39.276123046875,-7.602107874702888,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>桑給巴爾</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>39.36676025390625,-6.230664295399371,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>蒙巴薩</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>39.6682065,-4.0434771,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>麻林地</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>40.99579685000003,-2.2535033564113762,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>摩加迪休</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>45.35000000000002,2.0333333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>索科特拉</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>54.21443399999998,12.529145999999992,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>澤拉</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>43.06640625,11.609193407938928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>馬薩瓦</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>39.445277799999985,15.6091667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>吉達</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>39.17277779999995,21.5433333,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>亞丁</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>45.03333329999998,12.8,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>杜法爾</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>52.5146484375,16.80454107638345,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>馬斯喀特</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>58.539999999999964,23.61,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>巴斯拉</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>48.34401045000004,30.158623293728024,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>荷姆茲</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>55.689697265625,26.985723763197157,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>第烏</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>70.3125,21.002471054356725,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>果阿</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>74.12399600000003,15.2993265,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>柯欽</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>76.32432264062504,10.056947300956221,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>本地治里</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>79.73719349999999,11.9143535,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>默蘇利珀德姆</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>81.09098768750005,16.184379999999976,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-B7DBAB</styleUrl>
+				<name>加爾各答</name>
+				<description><![CDATA[非洲東部&印度-城鎮]]></description>
+				<Point>
+					<coordinates>88.36389499999996,22.572646,0.0</coordinates>
 				</Point>
 			</Placemark>
 			<Placemark>
@@ -939,7 +1099,41 @@ alpha]]></description>
 					<coordinates>44.6484375,-18.396230138028812,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲西部
+</name>
+				<description><![CDATA[非洲西部-非城鎮]]></description>
+				<Point>
+					<coordinates>-16.611328125,12.297068292853803,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>大西洋中部南岸</name>
+				<description><![CDATA[非洲西部-非城鎮]]></description>
+				<Point>
+					<coordinates>-8.701171875,5.266007882805511,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>非洲幾內亞灣北岸</name>
+				<description><![CDATA[非洲西部-非城鎮]]></description>
+				<Point>
+					<coordinates>8.4375,4.959615024698026,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
+		<Style id='icon-503-EE9C96'>
+			<IconStyle>
+				<color>ff969CEE</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<Style id='icon-503-F4EB37'>
 			<IconStyle>
 				<color>ff37EBF4</color>
@@ -958,15 +1152,6 @@ alpha]]></description>
 				</Icon>
 			</IconStyle>
 		</Style>
-		<Style id='icon-503-9FC3FF'>
-			<IconStyle>
-				<color>ffFFC39F</color>
-				<scale>1.1</scale>
-				<Icon>
-					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
-				</Icon>
-			</IconStyle>
-		</Style>
 		<Style id='icon-503-7C3592'>
 			<IconStyle>
 				<color>ff92357C</color>
@@ -979,6 +1164,15 @@ alpha]]></description>
 		<Style id='icon-503-F8971B'>
 			<IconStyle>
 				<color>ff1B97F8</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Style id='icon-503-B7DBAB'>
+			<IconStyle>
+				<color>ffABDBB7</color>
 				<scale>1.1</scale>
 				<Icon>
 					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
