@@ -1032,6 +1032,62 @@ alpha]]></description>
 				</Point>
 			</Placemark>
 			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>巴伊亞</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-39.327972761314186,-13.007356611471705,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>里約熱內盧</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-43.20071009999998,-22.9133954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>布宜諾斯艾利斯</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-58.38159310000003,-34.6037232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>烏斯懷亞</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-68.30295109999997,-54.8019121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>瓦爾帕萊索</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-71.620361,-33.045646,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>科皮亞波</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-70.78267645312496,-27.327324930282508,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-503-4186F0</styleUrl>
+				<name>利馬</name>
+				<description><![CDATA[南美-城鎮]]></description>
+				<Point>
+					<coordinates>-77.0709458658203,-12.088005311387612,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
 				<styleUrl>#icon-503-009D57</styleUrl>
 				<name>馬拉加</name>
 				<description><![CDATA[歐洲西部-北大西洋-城鎮]]></description>
@@ -1478,7 +1534,40 @@ alpha]]></description>
 					<coordinates>-78.75,1.845383988573187,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>南美東南岸</name>
+				<description><![CDATA[南美-非城鎮]]></description>
+				<Point>
+					<coordinates>-49.130859375,-27.137368359795595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>南美西南岸</name>
+				<description><![CDATA[南美-非城鎮]]></description>
+				<Point>
+					<coordinates>-73.4765625,-48.34164617237459,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>拉帕努伊西岸</name>
+				<description><![CDATA[南美-非城鎮]]></description>
+				<Point>
+					<coordinates>-109.4289779663086,-27.14836683538184,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
+		<Style id='icon-503-4186F0'>
+			<IconStyle>
+				<color>ffF08641</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
 		<Style id='icon-503-3F5BA9'>
 			<IconStyle>
 				<color>ffA95B3F</color>
