@@ -1726,6 +1726,46 @@ alpha]]></description>
 					<coordinates>-109.4289779663086,-27.14836683538184,0.0</coordinates>
 				</Point>
 			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>孟加拉灣東北岸</name>
+				<description><![CDATA[東南亞-非城鎮]]></description>
+				<Point>
+					<coordinates>93.2080078125,20.159098270646936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>蘇門答臘西南岸</name>
+				<description><![CDATA[東南亞-非城鎮]]></description>
+				<Point>
+					<coordinates>103.7548828125,-4.696879026871413,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>爪哇島北岸</name>
+				<description><![CDATA[東南亞-非城鎮]]></description>
+				<Point>
+					<coordinates>110.1708984375,-6.991859181483679,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>新幾內亞島南岸</name>
+				<description><![CDATA[東南亞-非城鎮]]></description>
+				<Point>
+					<coordinates>142.44873046875,-8.971897294083012,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-1469</styleUrl>
+				<name>西里伯斯島東岸</name>
+				<description><![CDATA[東南亞-非城鎮]]></description>
+				<Point>
+					<coordinates>121.4208984375,-2.284550660236957,0.0</coordinates>
+				</Point>
+			</Placemark>
 		</Folder>
 		<Style id='icon-503-4186F0'>
 			<IconStyle>
